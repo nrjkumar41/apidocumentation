@@ -1,3 +1,6 @@
+--Sample text----Sample text----Sample text-- 
+
+
 ![aglio](https://raw.github.com/danielgtaylor/aglio/master/images/aglio.png)
 
 [![Dependency Status](http://img.shields.io/david/danielgtaylor/aglio.svg?style=flat)](https://david-dm.org/danielgtaylor/aglio) [![Build Status](http://img.shields.io/travis/danielgtaylor/aglio/master.svg?style=flat)](https://travis-ci.org/danielgtaylor/aglio) [![Coverage Status](http://img.shields.io/coveralls/danielgtaylor/aglio.svg?style=flat)](https://coveralls.io/r/danielgtaylor/aglio) [![NPM version](http://img.shields.io/npm/v/aglio.svg?style=flat)](https://www.npmjs.org/package/aglio) [![License](http://img.shields.io/npm/l/aglio.svg?style=flat)](https://www.npmjs.org/package/aglio) [![Gitter](https://img.shields.io/badge/gitter-chat-orange.svg)](https://gitter.im/danielgtaylor/aglio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -376,7 +379,7 @@ aglio -t hello --theme-name Daniel -i example.apib -o -
 ```
 
 You are free to use whatever template system (Jade, EJS, Nunjucks, etc) and any supporting libraries (e.g. for CSS) you like.
---Sample text--
+
 License
 =======
 Copyright (c) 2016 Daniel G. Taylor
