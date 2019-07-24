@@ -376,7 +376,7 @@ aglio -t hello --theme-name Daniel -i example.apib -o -
 ```
 
 You are free to use whatever template system (Jade, EJS, Nunjucks, etc) and any supporting libraries (e.g. for CSS) you like.
-
+--Sample text--
 License
 =======
 Copyright (c) 2016 Daniel G. Taylor
